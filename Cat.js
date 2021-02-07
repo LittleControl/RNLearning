@@ -8,3 +8,5 @@ const Cat = (props) => {
     </View>
   )
 }
+
+export default Cat;
