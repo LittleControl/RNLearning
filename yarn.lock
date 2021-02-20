@@ -1796,6 +1796,11 @@ accepts@~1.3.5, accepts@~1.3.7:
     mime-types "~2.1.24"
     negotiator "0.6.2"
 
+anonymous-files@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npm.taobao.org/anonymous-files/download/anonymous-files-1.0.1.tgz#4d9c0d3351b2e586ff61872f0afb1aac4915f9fc"
+  integrity sha1-TZwNM1Gy5Yb/YYcvCvsarEkV+fw=
+
 anser@^1.4.9:
   version "1.4.10"
   resolved "https://registry.npm.taobao.org/anser/download/anser-1.4.10.tgz#befa3eddf282684bd03b63dcda3927aef8c2e35b"
@@ -2966,6 +2971,14 @@ expo-font@~8.4.0:
     fbjs "1.0.0"
     fontfaceobserver "^2.1.0"
 
+expo-image-picker@~9.2.0:
+  version "9.2.1"
+  resolved "https://registry.npm.taobao.org/expo-image-picker/download/expo-image-picker-9.2.1.tgz#113a46bfc8ef9bf675e8700b1bf7b8472f4de516"
+  integrity sha1-ETpGv8jvm/Z16HALG/e4Ry9N5RY=
+  dependencies:
+    expo-permissions "~10.0.0"
+    uuid "7.0.2"
+
 expo-keep-awake@~8.4.0:
   version "8.4.0"
   resolved "https://registry.npm.taobao.org/expo-keep-awake/download/expo-keep-awake-8.4.0.tgz#346d0988e6364c46050fef4b7829f302ef3e603d"
@@ -3000,6 +3013,11 @@ expo-secure-store@~9.3.0:
   version "9.3.0"
   resolved "https://registry.npm.taobao.org/expo-secure-store/download/expo-secure-store-9.3.0.tgz#b716d5d115cc50a34037d1afef84fe4b8ea0745c"
   integrity sha1-txbV0RXMUKNAN9Gv74T+S46gdFw=
+
+expo-sharing@~8.5.0:
+  version "8.5.0"
+  resolved "https://registry.npm.taobao.org/expo-sharing/download/expo-sharing-8.5.0.tgz#8f54774fc0b2405bf63183c235544b7f978a7765"
+  integrity sha1-j1R3T8CyQFv2MYPCNVRLf5eKd2U=
 
 expo-sqlite@~8.5.0:
   version "8.5.0"
@@ -6216,6 +6234,11 @@ utils-merge@1.0.1:
   version "1.0.1"
   resolved "https://registry.npm.taobao.org/utils-merge/download/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
   integrity sha1-n5VxD1CiZ5R7LMwSR0HBAoQn5xM=
+
+uuid@7.0.2:
+  version "7.0.2"
+  resolved "https://registry.npm.taobao.org/uuid/download/uuid-7.0.2.tgz?cache=0&sync_timestamp=1607460077975&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fuuid%2Fdownload%2Fuuid-7.0.2.tgz#7ff5c203467e91f5e0d85cfcbaaf7d2ebbca9be6"
+  integrity sha1-f/XCA0Z+kfXg2Fz8uq99LrvKm+Y=
 
 uuid@^3.3.2, uuid@^3.4.0:
   version "3.4.0"
